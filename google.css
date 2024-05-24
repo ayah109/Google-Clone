@@ -1,0 +1,95 @@
+.all{
+    border: 5px  solid white;
+    background-color:white;
+    width: 800px;
+    height:800px;
+    margin: auto;
+    
+    }
+.h{ 
+
+      border-radius:5cm;
+      text-align: center;
+      width: 500px;
+      height: 50px;
+      border: 3px solid  rgb(139, 138, 138);
+      margin-left: 150px;
+      margin-right: 150px;
+      margin-top: -60%;
+      }
+      .box{
+         width: 350px;
+         height: 40px;
+         margin-top: 5px;
+        border: 0px none;
+         margin-left:0px ;
+         font-size: 20px;
+         outline: 0px;
+      }
+.imglogo{
+    width: 300px;
+    height: 100px; 
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 200px;
+    margin-bottom: 500px;
+    }
+    .icons{
+      margin-top: 10px;
+      width: 30px;
+      height: 30px;
+      
+    }
+    .mike{
+      margin-right:10px ;
+      float:right;
+    }
+    .camera{
+      margin-right:10px ;
+      float: right;
+    }
+    .search {
+      margin-left: 10px;
+      float: left;
+    }
+    .button{
+      padding: 20px;
+      color: #000;
+      border:none ;
+      margin-top:20px ;
+    }
+    .o{
+      margin-left: 250px;
+    }
+    .t{
+      margin-left: 40px;
+      
+    }
+
+    .button:hover ,.button t:hover{
+      background: rgb(66, 65, 65);
+    }
+    .button2{
+      width: 5%;
+      color: #000;
+      border:none ;
+      margin-left: 500px;
+      
+   
+    }
+    .button2:hover{
+      background: rgb(66, 65, 65);
+      text-decoration: underline;
+    }
+
+    ul{
+      list-style: none;  
+      padding: 0;
+      display: flex;
+      gap: 10px;
+      margin-left: 86%;
+    }
+
+    
+
+   
